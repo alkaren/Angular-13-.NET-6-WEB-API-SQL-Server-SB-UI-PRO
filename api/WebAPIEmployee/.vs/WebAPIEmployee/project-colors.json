@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69add5cf-f229-4df7-9f67-e3f26a6aebe2": {
+      "ProjectGuid": "69add5cf-f229-4df7-9f67-e3f26a6aebe2",
+      "DisplayName": "WebAPIEmployee",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
